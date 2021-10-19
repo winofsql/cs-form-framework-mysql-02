@@ -1,5 +1,5 @@
 ﻿
-namespace cs_form_framework_mysql_02
+namespace cs_form_mysql_02
 {
     partial class Form1
     {
